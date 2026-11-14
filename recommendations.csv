@@ -1,0 +1,53 @@
+customer_id,customer_name,rank,product_id,product_name,category,score,supporting_customers
+C101,Wanjiru,1,P03,Festive Bread,Bakery,1.350,C117;C109;C113
+C101,Wanjiru,2,P10,Pampers Size 3,Baby,0.650,C117
+C101,Wanjiru,3,P01,Kienyeji Eggs (tray),Fresh,0.208,C113
+C102,Otieno,1,P05,Kimbo 1kg,Pantry,1.054,C118;C106
+C102,Otieno,2,P07,Royco Mchuzi Mix,Pantry,0.733,C114
+C102,Otieno,3,P15,Kenchic Whole Chicken,Fresh,0.287,C106
+C103,Achieng,1,P12,Omo 2kg,Household,0.520,C107
+C103,Achieng,2,P02,Brookside Milk 1L,Dairy,0.500,C107
+C103,Achieng,3,P15,Kenchic Whole Chicken,Fresh,0.460,C107
+C104,Kamau,1,P03,Festive Bread,Bakery,2.363,C108;C120;C112
+C105,Njeri,1,P10,Pampers Size 3,Baby,0.845,C107;C111
+C105,Njeri,2,P12,Omo 2kg,Household,0.845,C107;C111
+C105,Njeri,3,P11,Johnson's Baby Lotion,Baby,0.480,C107
+C106,Mwangi,1,P01,Kienyeji Eggs (tray),Fresh,0.938,C118;C102
+C106,Mwangi,2,P02,Brookside Milk 1L,Dairy,0.312,C105
+C107,Chebet,1,P03,Festive Bread,Bakery,0.656,C108;C117;C120;C113
+C107,Chebet,2,P09,Nescafe Classic 100g,Beverages,0.471,C104;C108;C120
+C107,Chebet,3,P13,Jik Bleach 750ml,Household,0.471,C104;C108;C120
+C108,Hassan,1,P02,Brookside Milk 1L,Dairy,0.729,C111;C119;C107;C113
+C108,Hassan,2,P10,Pampers Size 3,Baby,0.565,C111;C117;C107
+C108,Hassan,3,P14,Tusker Lager 6-pack,Beverages,0.420,C116
+C109,Fatma,1,P04,Blue Band 500g,Dairy,0.958,C117;C101
+C109,Fatma,2,P10,Pampers Size 3,Baby,0.650,C117
+C109,Fatma,3,P13,Jik Bleach 750ml,Household,0.400,C112
+C110,Kiprop,1,P06,Pishori Rice 5kg,Pantry,0.900,C114;C102
+C110,Kiprop,2,P11,Johnson's Baby Lotion,Baby,0.300,C103
+C111,Akinyi,1,P11,Johnson's Baby Lotion,Baby,1.620,C107;C119;C103
+C111,Akinyi,2,P15,Kenchic Whole Chicken,Fresh,0.690,C107
+C112,Mutua,1,P12,Omo 2kg,Household,1.300,C108;C120
+C112,Mutua,2,P09,Nescafe Classic 100g,Beverages,1.200,C108;C120
+C112,Mutua,3,P08,Ketepa Tea 250g,Beverages,0.383,C109
+C113,Wambui,1,P08,Ketepa Tea 250g,Beverages,0.520,C117;C101
+C113,Wambui,2,P06,Pishori Rice 5kg,Pantry,0.400,C118
+C113,Wambui,3,P10,Pampers Size 3,Baby,0.371,C117
+C114,Omondi,1,P10,Pampers Size 3,Baby,0.650,C110
+C114,Omondi,2,P05,Kimbo 1kg,Pantry,0.575,C118
+C115,Nekesa,1,P12,Omo 2kg,Household,0.520,C107
+C115,Nekesa,2,P02,Brookside Milk 1L,Dairy,0.500,C107
+C115,Nekesa,3,P15,Kenchic Whole Chicken,Fresh,0.460,C107
+C116,Barasa,1,P12,Omo 2kg,Household,1.040,C108;C120
+C116,Barasa,2,P13,Jik Bleach 750ml,Household,0.960,C108;C120
+C116,Barasa,3,P08,Ketepa Tea 250g,Beverages,0.287,C109
+C117,Zawadi,1,P01,Kienyeji Eggs (tray),Fresh,0.357,C113
+C117,Zawadi,2,P02,Brookside Milk 1L,Dairy,0.357,C113
+C117,Zawadi,3,P05,Kimbo 1kg,Pantry,0.329,C113
+C118,Kariuki,1,P15,Kenchic Whole Chicken,Fresh,0.575,C106
+C118,Kariuki,2,P07,Royco Mchuzi Mix,Pantry,0.550,C114
+C119,Amina,1,P10,Pampers Size 3,Baby,1.755,C107;C111;C103
+C119,Amina,2,P15,Kenchic Whole Chicken,Fresh,0.690,C107
+C120,Juma,1,P02,Brookside Milk 1L,Dairy,0.729,C111;C119;C107;C113
+C120,Juma,2,P10,Pampers Size 3,Baby,0.565,C111;C117;C107
+C120,Juma,3,P14,Tusker Lager 6-pack,Beverages,0.420,C116
